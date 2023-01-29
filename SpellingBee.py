@@ -1,5 +1,5 @@
 ######################################################################
-# Implementing a spelling bee game, inspired by the that appears in the New York Times. 
+# Implementing a spelling bee game, inspired by the game that appears in the New York Times. 
 # The purpose of the game is to find as many possible words from 
 # a display of 7 letters, where each word must meet the following criteria:
 #   1. it must consist of four or more letters; and
